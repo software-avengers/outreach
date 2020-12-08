@@ -1,0 +1,21 @@
+.form {
+    width: 30rem;
+    height: 25rem;
+    margin-top: 10rem;
+    background-color: #e8e8e8;
+    color: #495464;
+}
+
+.button {
+    background-color: #495464;
+    color: #f4f4f2;
+}
+
+.button:hover {
+    background-color: #f4f4f2;
+    color: #495464;
+}
+
+.main {
+    padding-top: 3rem;
+}

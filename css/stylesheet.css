@@ -1,0 +1,71 @@
+body{
+    /*background-color: #6c757d;*/
+    background-color: #38434c;
+    font-family: sans-serif;
+    padding-top: 60px;
+    color: white;
+}
+
+.card{
+    border:none;
+}
+
+.card-img-top{
+    height: 80px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+hr{
+    background-color: #b9bbbe;
+}
+
+.img-header{
+    object-fit: cover;
+    overflow:hidden;
+    width:100%;
+    height:340px;
+}
+
+#main{
+    width: 80%;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:60%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:70%;
+    position:absolute;
+}
+
+.resource-cards{
+    text-align: center;
+}
+.resource-logo{
+    height: 100px;
+    background-color: #ffffff;
+}
+
+section{
+    padding-top:5rem;
+
+}
+
+.snowflake {
+    font-size: 6em;
+    color: lightblue;
+
+}
+
+.textDiv{
+    border-left: 10px solid #2c87e2;
+}

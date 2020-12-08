@@ -1,0 +1,13 @@
+#logout-icon{
+    height:1rem;
+}
+
+#outReachTable {
+    background-color: gainsboro;
+}
+
+thead > tr > td {
+    font-weight: bold;
+    color: #20c997;
+}
+
